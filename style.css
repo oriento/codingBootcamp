@@ -1,5 +1,5 @@
 h1 {
-    color: black;
+    color: blue;
     margin:0;
     font-family: courier;
 }
@@ -34,7 +34,7 @@ hr {
     background-color: black;
 }
 body {
-    background-color: antiquewhite;
+    background-color: teal;
     padding:0 150px 0 150px;
 }
 ul {
